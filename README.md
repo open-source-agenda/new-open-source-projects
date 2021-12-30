@@ -1,9 +1,38 @@
 # New Open Source Projects
 
 ## Table of Contents
+- [2021: Week 51 (2021/12/20-2021/12/26)](#2021-week-51-20211220-20211226) 
 - [2021: Week 50 (2021/12/13-2021/12/19)](#2021-week-50-20211213-20211219) 
 - [2021: Week 49 (2021/12/06-2021/12/12)](#2021-week-49-20211206-20211212) 
 - [2021: Week 48 (2021/11/29-2021/12/05)](#2021-week-48-20211129-20211205) 
+
+## 2021: Week 51 (2021/12/20-2021/12/26) 
+
+- [Cisagov Log4j Scanner](https://www.opensourceagenda.com/projects/cisagov-log4j-scanner) - log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.  
+- [Admin360bug Bypass](https://www.opensourceagenda.com/projects/admin360bug-bypass)  
+- [R2Northstar Northstar](https://www.opensourceagenda.com/projects/r2northstar-northstar) - Repo for packaged Northstar releases and the wiki 
+- [Cornell Mcray](https://www.opensourceagenda.com/projects/cornell-mcray) - 🕹 A quick'n'dirty game sample using kajiya, physx-rs, and dolly 
+- [Kanagawa.nvim](https://www.opensourceagenda.com/projects/kanagawanvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. 
+- [Mmrazor](https://www.opensourceagenda.com/projects/mmrazor) - OpenMMLab Model Compression Toolbox and Benchmark. 
+- [Facebookresearch SLIP](https://www.opensourceagenda.com/projects/facebookresearch-slip) - Code release for SLIP Self-supervision meets Language-Image Pre-training 
+- [Latent Diffusion](https://www.opensourceagenda.com/projects/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models 
+- [Go Zero Looklook](https://www.opensourceagenda.com/projects/go-zero-looklook) - 基于go-zero 全面技术栈开发最小可用项目，帮助go-zero社区更完善。 go-zero项目地址: https://github.com/zeromicro/go-zero 
+- [Undot](https://www.opensourceagenda.com/projects/undot)  
+- [Kernel Memory Management](https://www.opensourceagenda.com/projects/kernel-memory-management) - 总结整理linux内核的内存管理的资料，包含论文，文章，视频，以及应用程序的内存泄露，内存池相关 
+- [Mwmbl](https://www.opensourceagenda.com/projects/mwmbl) - An open source, non-profit search engine implemented in python 
+- [Phoenixframework Tailwind](https://www.opensourceagenda.com/projects/phoenixframework-tailwind) - An installer for tailwind 
+- [Haya](https://www.opensourceagenda.com/projects/haya) - ⚡️ esbuild based dev server and production bundler, it's really fast 
+- [Tree Sitter Highlight](https://www.opensourceagenda.com/projects/tree-sitter-highlight) - A syntax highlighter for Node powered by Tree Sitter. Written in Rust. 
+- [Tunib Ai Oslo](https://www.opensourceagenda.com/projects/tunib-ai-oslo) - OSLO: Open Source framework for Large-scale transformer Optimization 
+- [Aokocax Useful FFmpeg Commands](https://www.opensourceagenda.com/projects/aokocax-useful-ffmpeg-commands) - A document describing how to easily find answers to video solutions/problems that you will need in daily life with FFmpeg 
+- [JNDIScan](https://www.opensourceagenda.com/projects/jndiscan) - 无须借助dnslog且完全无害的JNDI反连检测工具，解析RMI和LDAP协议实现，可用于甲方内网自查 
+- [Crop CLIP](https://www.opensourceagenda.com/projects/crop-clip) - Crop using CLIP 
+- [Baidu Dperf](https://www.opensourceagenda.com/projects/baidu-dperf) - dperf is a load tester for L4 load balancer. 
+- [Smithy4s](https://www.opensourceagenda.com/projects/smithy4s)  
+- [Python Computer Vision From Scratch](https://www.opensourceagenda.com/projects/python-computer-vision-from-scratch) - This repository explores the variety of techniques commonly used to analyze and interpret images. It also describes challenging real-world applications where vision is being successfully used, both for specialized applications such as medical imaging, and for fun, consumer-level tasks such as image editing and stitching, which students can apply to their own personal photos and videos. 
+- [Typejuice](https://www.opensourceagenda.com/projects/typejuice) - Documentation generator for TypeScript Declaration Files inspired by godoc. 
+- [Vovanphuc Hum2song](https://www.opensourceagenda.com/projects/vovanphuc-hum2song) - zalo AI challenge 2021 task hum to song 
+- [AkaiRep Video To Ascii](https://www.opensourceagenda.com/projects/akairep-video-to-ascii) - Скрипт который выводит видео в консоль. Ничего лишнего) 
 
 ## 2021: Week 50 (2021/12/13-2021/12/19) 
 
