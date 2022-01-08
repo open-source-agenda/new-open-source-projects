@@ -1,10 +1,39 @@
 # New Open Source Projects
 
 ## Table of Contents
+- [2021: Week 52 (2021/12/27-2022/01/02)](#2021-week-52-20211227-20220102) 
 - [2021: Week 51 (2021/12/20-2021/12/26)](#2021-week-51-20211220-20211226) 
 - [2021: Week 50 (2021/12/13-2021/12/19)](#2021-week-50-20211213-20211219) 
 - [2021: Week 49 (2021/12/06-2021/12/12)](#2021-week-49-20211206-20211212) 
 - [2021: Week 48 (2021/11/29-2021/12/05)](#2021-week-48-20211129-20211205) 
+
+## 2021: Week 52 (2021/12/27-2022/01/02) 
+
+- [Tkellogg Dura](https://www.opensourceagenda.com/projects/tkellogg-dura) - You shouldn't ever lose your work if you're using Git 
+- [Google Log4jscanner](https://www.opensourceagenda.com/projects/google-log4jscanner) - A log4j vulnerability filesystem scanner and Go package for analyzing JAR files. 
+- [Bugswriter Notflix](https://www.opensourceagenda.com/projects/bugswriter-notflix) - Notflix is a shell script to search and stream torrent. 
+- [Tencent CodeAnalysis](https://www.opensourceagenda.com/projects/tencent-codeanalysis) - Static Code Analysis 
+- [Emfy](https://www.opensourceagenda.com/projects/emfy) - A dark and sleek Emacs setup for general purpose editing and programming 
+- [Wechat Report](https://www.opensourceagenda.com/projects/wechat-report) - 微信聊天记录年度报告 
+- [Telethon Helper](https://www.opensourceagenda.com/projects/telethon-helper-helper)  
+- [Roz](https://www.opensourceagenda.com/projects/roz)  
+- [Merkle Airdrop Starter](https://www.opensourceagenda.com/projects/merkle-airdrop-starter) - Frontend, contracts, and merkle tree generator for use in quickly scaffolding ERC20 token airdrops. 
+- [Review 2021](https://www.opensourceagenda.com/projects/review-2021) - 今年，你写年终总结了吗？ 
+- [Netspy](https://www.opensourceagenda.com/projects/netspy) - netspy是一款快速探测内网可达网段工具 
+- [OpenSCA Cli](https://www.opensourceagenda.com/projects/opensca-cli) - OpenSCA is a Software Composition Analysis (SCA) solution that supports detection of open source component dependencies and vulnerabilities. 
+- [Webtoon Psd](https://www.opensourceagenda.com/projects/webtoon-psd) - A lightweight Adobe Photoshop .psd/.psb file parser in typescript with zero-dependency for WebBrowser and NodeJS 
+- [Awesome List Of Secrets In Environment Variables](https://www.opensourceagenda.com/projects/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️ 
+- [Defi Derivatives](https://www.opensourceagenda.com/projects/defi-derivatives) -  A hopefully comprehensive guide to the defi derivative landscape 
+- [Eurorack Cpu](https://www.opensourceagenda.com/projects/eurorack-cpu) - A CPU implemented in a modular synthesizer 
+- [Flutterando Roadmap](https://www.opensourceagenda.com/projects/flutterando-roadmap) - Flutter roadmap pt-BR 
+- [Autoportforward](https://www.opensourceagenda.com/projects/autoportforward) - Bidirectional port-forwarding for docker, podman and kubernetes 
+- [KlezVirus Vortex](https://www.opensourceagenda.com/projects/klezvirus-vortex) - VPN Overall Reconnaissance, Testing, Enumeration and eXploitation Toolkit 
+- [Fuzzuf](https://www.opensourceagenda.com/projects/fuzzuf) - Fuzzing Unification Framework 
+- [Symfony Cli](https://www.opensourceagenda.com/projects/symfony-cli) - The Symfony CLI tool 
+- [Capturable](https://www.opensourceagenda.com/projects/capturable) - 🚀Jetpack Compose utility library for capturing Composable content and transforming it into Bitmap Image🖼️ 
+- [Ghostly](https://www.opensourceagenda.com/projects/ghostly) - Ghostly is a GitHub notification client for Windows 10/11 
+- [Wechat GgGitHub Awesome GitHub Repo](https://www.opensourceagenda.com/projects/wechat-gggithub-awesome-github-repo) - 收集整理 GitHub 上高质量、有趣的开源项目。 
+- [AVP SLAM PLUS](https://www.opensourceagenda.com/projects/avp-slam-plus) - An implementation of AVP-SLAM and some new contributions 
 
 ## 2021: Week 51 (2021/12/20-2021/12/26) 
 
