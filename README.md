@@ -1,11 +1,40 @@
 # New Open Source Projects
 
 ## Table of Contents
+- [2022: Week 1 (2022/01/03-2022/01/09)](#2022-week-1-20220103-20220109) 
 - [2021: Week 52 (2021/12/27-2022/01/02)](#2021-week-52-20211227-20220102) 
 - [2021: Week 51 (2021/12/20-2021/12/26)](#2021-week-51-20211220-20211226) 
 - [2021: Week 50 (2021/12/13-2021/12/19)](#2021-week-50-20211213-20211219) 
 - [2021: Week 49 (2021/12/06-2021/12/12)](#2021-week-49-20211206-20211212) 
 - [2021: Week 48 (2021/11/29-2021/12/05)](#2021-week-48-20211129-20211205) 
+
+## 2022: Week 1 (2022/01/03-2022/01/09) 
+
+- [ConvNeXt](https://www.opensourceagenda.com/projects/convnext) - Code release for ConvNeXt model 
+- [Faker Js Faker](https://www.opensourceagenda.com/projects/faker-js-faker) - Generate massive amounts of fake data in the browser and node.js 
+- [Faker.js](https://www.opensourceagenda.com/projects/fakerjs) - What really happened with Aaron Swartz? 
+- [PowerRemoteDesktop](https://www.opensourceagenda.com/projects/powerremotedesktop) - Remote Desktop entirely coded in PowerShell. 
+- [Yasso](https://www.opensourceagenda.com/projects/yasso) - 强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行） 
+- [Falso](https://www.opensourceagenda.com/projects/falso) - All the Fake Data for All Your Real Needs 🙂 
+- [Asyncer](https://www.opensourceagenda.com/projects/asyncer) - Asyncer, async and await, focused on developer experience. 
+- [Data Dockerfiles](https://www.opensourceagenda.com/projects/data-dockerfiles) - a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries. 
+- [Instant Ngp](https://www.opensourceagenda.com/projects/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more 
+- [Lil Web3](https://www.opensourceagenda.com/projects/lil-web3) - Simple, intentionally-limited versions of web3 protocols & apps. 
+- [Blocked Sites In South Korea](https://www.opensourceagenda.com/projects/blocked-sites-in-south-korea)  
+- [30 Gunde Javascript](https://www.opensourceagenda.com/projects/30-gunde-javascript) - 30 Günde Javascript, orijinali "30 days of challenge" olan ve adım adım 30 günde javascript öğretmeyi hedefleyen bir deneyimdir. 
+- [Charmbracelet Wishlist](https://www.opensourceagenda.com/projects/charmbracelet-wishlist) - The SSH directory ✨ 
+- [Autosaved](https://www.opensourceagenda.com/projects/autosaved) - Never worry about losing your code. Written in Go 
+- [Ipv6 Ghost Ship](https://www.opensourceagenda.com/projects/ipv6-ghost-ship) - Silly usage of AWS EC2 IPv6 prefixes 
+- [Prettyplease](https://www.opensourceagenda.com/projects/prettyplease) - A minimal `syn` syntax tree pretty-printer 
+- [Ffmpeg Develop Doc](https://www.opensourceagenda.com/projects/ffmpeg-develop-doc) - 2022年，最新ffmpeg资料整理，项目（调试可用），命令手册，文章，编解码论文，视频讲解，面试题全套资料 
+- [Bash Web Server](https://www.opensourceagenda.com/projects/bash-web-server) - A purely bash web server, no socat, netcat, etc...  
+- [Inject Assembly](https://www.opensourceagenda.com/projects/inject-assembly) - Inject .NET assemblies into an existing process 
+- [Antfu P](https://www.opensourceagenda.com/projects/antfu-p) - Toolkit for managing multiple promises 
+- [Slide Puzzle](https://www.opensourceagenda.com/projects/slide-puzzle)  
+- [Hello Cloudflare](https://www.opensourceagenda.com/projects/hello-cloudflare) - A public letter to Cloudflare to fix their snoopy vendor 
+- [Awesome List Of Awesomes](https://www.opensourceagenda.com/projects/awesome-list-of-awesomes) - A curated list of all the Awesome --Topic Name-- lists I've found till date relevant to Data lifecycle, ML and DL. 
+- [Perfect Cursors](https://www.opensourceagenda.com/projects/perfect-cursors) - Perfect interpolation for multiplayer cursors. 
+- [Openglonmetal MGL](https://www.opensourceagenda.com/projects/openglonmetal-mgl) - OpenGL 4.6 on Metal 
 
 ## 2021: Week 52 (2021/12/27-2022/01/02) 
 
