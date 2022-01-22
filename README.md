@@ -1,12 +1,41 @@
 # New Open Source Projects
 
 ## Table of Contents
+- [2022: Week 2 (2022/01/10-2022/01/16)](#2022-week-2-20220110-20220116) 
 - [2022: Week 1 (2022/01/03-2022/01/09)](#2022-week-1-20220103-20220109) 
 - [2021: Week 52 (2021/12/27-2022/01/02)](#2021-week-52-20211227-20220102) 
 - [2021: Week 51 (2021/12/20-2021/12/26)](#2021-week-51-20211220-20211226) 
 - [2021: Week 50 (2021/12/13-2021/12/19)](#2021-week-50-20211213-20211219) 
 - [2021: Week 49 (2021/12/06-2021/12/12)](#2021-week-49-20211206-20211212) 
 - [2021: Week 48 (2021/11/29-2021/12/05)](#2021-week-48-20211129-20211205) 
+
+## 2022: Week 2 (2022/01/10-2022/01/16) 
+
+- [Alyssaxuu Omni](https://www.opensourceagenda.com/projects/alyssaxuu-omni) - The all-in-one tool to supercharge your productivity ⌨️ 
+- [Annotated Latex Equations](https://www.opensourceagenda.com/projects/annotated-latex-equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. 
+- [.NET Backend Developer Roadmap](https://www.opensourceagenda.com/projects/net-backend-developer-roadmap) - Nick's Roadmap for a .NET Backend Developer working with Microservices 
+- [Multiprocessio Dsq](https://www.opensourceagenda.com/projects/multiprocessio-dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. 
+- [Python Communism](https://www.opensourceagenda.com/projects/python-communism) - A module for initiating the communist revolution in each of our python modules 
+- [Sci Hub Injector](https://www.opensourceagenda.com/projects/sci-hub-injector) - Adds SciHub links to popular publisher websites 
+- [CertificationMaterials](https://www.opensourceagenda.com/projects/certificationmaterials) - A collection of materials related to my certification videos 
+- [Minecraft Again](https://www.opensourceagenda.com/projects/minecraft-again) - yeah I made it again 
+- [Awesome Crypto Critique](https://www.opensourceagenda.com/projects/awesome-crypto-critique) - Awesome critique of crypto / web3. Curated list of high quality critique plus background. Seek to be as constructive as possible. 
+- [SNESticle](https://www.opensourceagenda.com/projects/snesticle) - SNESticle source code (circa ~2004) 
+- [Jdog202201](https://www.opensourceagenda.com/projects/jdog202201) - 京东2022炸年兽 
+- [Ansible Hms Docker](https://www.opensourceagenda.com/projects/ansible-hms-docker) - Ansible playbook for automated home media server setup 
+- [Zaxblog MinerProxy](https://www.opensourceagenda.com/projects/zaxblog-minerproxy) - MinerProxy(中文名：加密挖全球 )，采用IOCP超高性能的网络框架编写，具有稳定性高，传输速度快，并发强等优点。可快速实现一键搭建任意矿池（ETH/ETC/RVN/ERGO/AE/BTC等）的中转节点，支持SSL加密，支持SSL矿池，支持任意第三方挖矿软件(包括OS系统)，支持协议模拟功能，内网无需客户端即可SSL加密传输至VPS解密，并同时支持5个矿池的转发，有精准清晰的矿机数据展示列表，可方便配置合理抽水，自动拦截抽水增加业主算力。在保持业主算力不受大的影响的情况下，给予VPS搭建者一定的运营费用。 
+- [Cerbersec Ares](https://www.opensourceagenda.com/projects/cerbersec-ares) - Project Ares is a Proof of Concept (PoC) loader written in C/C++ based on the Transacted Hollowing technique 
+- [Dm Vio](https://www.opensourceagenda.com/projects/dm-vio) - Coming soon: Source code forthe paper DM-VIO: Delayed Marginalization Visual-Inertial Odometry 
+- [Minerproxyeth Minerproxy](https://www.opensourceagenda.com/projects/minerproxyeth-minerproxy) - 最稳定的ETH代理中转程序；已修改作者抽水至千分之三，纯中转无任何抽水；支持SSL、自有证书；包含自启动和进程守护！放开防火墙和连接数限制，一键搞定。 挂一个冒充原作者的垃圾：qq1694202骗子一个 
+- [Classical Modern](https://www.opensourceagenda.com/projects/classical-modern) - 非常全的文言文（古文）-现代文平行语料 
+- [Vested Erc20](https://www.opensourceagenda.com/projects/vested-erc20) - A wrapper ERC20 token that linearly vests an underlying ERC20 token to its holders. 
+- [Use Workerized Reducer](https://www.opensourceagenda.com/projects/use-workerized-reducer) - Like useReducer, but runs in a worker. 
+- [Ospfranco Sol](https://www.opensourceagenda.com/projects/ospfranco-sol) - A Raycast/Alfred/Spotlight alternative 
+- [Awesome Eventbridge](https://www.opensourceagenda.com/projects/awesome-eventbridge) - List of resources for learning about events, patterns, and using Amazon EventBridge 
+- [LdapRelayScan](https://www.opensourceagenda.com/projects/ldaprelayscan) - Check for LDAP protections regarding the relay of NTLM authentication 
+- [QRCode NCNN](https://www.opensourceagenda.com/projects/qrcode-ncnn) - QRCode(from WeChat) implement in ncnn⚡二维码检测&解码⚡ncnn⚡ 
+- [Muesli Mango](https://www.opensourceagenda.com/projects/muesli-mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages 
+- [VeraCryptThief](https://www.opensourceagenda.com/projects/veracryptthief) - Extracting clear-text passwords from VeraCrypt.exe using API hooking 
 
 ## 2022: Week 1 (2022/01/03-2022/01/09) 
 
