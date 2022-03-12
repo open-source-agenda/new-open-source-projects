@@ -1,6 +1,13 @@
 # New Open Source Projects
 
 ## Table of Contents
+- [2022: Week 9 (2022/02/28-2022/03/06)](#2022-week-9-20220228-20220306) 
+- [2022: Week 8 (2022/02/21-2022/02/27)](#2022-week-8-20220221-20220227) 
+- [2022: Week 7 (2022/02/14-2022/02/20)](#2022-week-7-20220214-20220220) 
+- [2022: Week 6 (2022/02/07-2022/02/13)](#2022-week-6-20220207-20220213) 
+- [2022: Week 5 (2022/01/31-2022/02/06)](#2022-week-5-20220131-20220206) 
+- [2022: Week 4 (2022/01/24-2022/01/30)](#2022-week-4-20220124-20220130) 
+- [2022: Week 3 (2022/01/17-2022/01/23)](#2022-week-3-20220117-20220123) 
 - [2022: Week 2 (2022/01/10-2022/01/16)](#2022-week-2-20220110-20220116) 
 - [2022: Week 1 (2022/01/03-2022/01/09)](#2022-week-1-20220103-20220109) 
 - [2021: Week 52 (2021/12/27-2022/01/02)](#2021-week-52-20211227-20220102) 
@@ -8,6 +15,202 @@
 - [2021: Week 50 (2021/12/13-2021/12/19)](#2021-week-50-20211213-20211219) 
 - [2021: Week 49 (2021/12/06-2021/12/12)](#2021-week-49-20211206-20211212) 
 - [2021: Week 48 (2021/11/29-2021/12/05)](#2021-week-48-20211129-20211205) 
+
+## 2022: Week 9 (2022/02/28-2022/03/06) 
+
+- [Samber Lo](https://www.opensourceagenda.com/projects/samber-lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) 
+- [Contract Templates](https://www.opensourceagenda.com/projects/contract-templates)  
+- [Hangzhou House Guide](https://www.opensourceagenda.com/projects/hangzhou-house-guide) - 2022年杭州购房指南，根据个人多年购房选房经历，总结而成的一篇买房攻略，涉及新房摇号和二手房选购，包含大量杭州城市规划资料。 
+- [Awesome Twitter Communities](https://www.opensourceagenda.com/projects/awesome-twitter-communities) - Awesome Twitter Communities for Engineers 
+- [BountyHunterInChina](https://www.opensourceagenda.com/projects/bountyhunterinchina) - 重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例 
+- [Conti Leaks Englished](https://www.opensourceagenda.com/projects/conti-leaks-englished) - Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group. 
+- [Codez0mb1e Resistance](https://www.opensourceagenda.com/projects/codez0mb1e-resistance) - Pre-crisis Risk Management for Personal Finance 
+- [Sperm](https://www.opensourceagenda.com/projects/sperm) - 浏览过的精彩逆向文章汇总，值得一看 
+- [Projectdiscovery Uncover](https://www.opensourceagenda.com/projects/projectdiscovery-uncover) - Quickly discover exposed hosts on the internet using multiple search engine. 
+- [Queer Utt](https://www.opensourceagenda.com/projects/queer-utt) - utt is the universal text transformer 
+- [Jpeg Sandbox](https://www.opensourceagenda.com/projects/jpeg-sandbox) - Interactively edit individual DCT blocks in any JPEG image in the browser. 
+- [StandWithUkraine](https://www.opensourceagenda.com/projects/standwithukraine) - StandWithUkraine support materials 
+- [Clemensv Messaging](https://www.opensourceagenda.com/projects/clemensv-messaging) - Resource collection for messaging and eventing 
+- [Desc Race](https://www.opensourceagenda.com/projects/desc-race) - iOS 15.1 kernel exploit POC for CVE-2021-30955 
+- [Rust Weekly](https://www.opensourceagenda.com/projects/rust-weekly) - Rust语言周刊，每周一或周五发布，精选过去一周的技术文章、业界新闻、开源项目和 Rust 语言动态 
+- [Vicreg](https://www.opensourceagenda.com/projects/vicreg) - VICReg official code base 
+- [Semgroup](https://www.opensourceagenda.com/projects/semgroup) - Like errgroup/waitgroup, but only runs a maximum of tasks at any time. 
+- [TROUBLE 1 Vajra](https://www.opensourceagenda.com/projects/trouble-1-vajra) - Vajra is a UI-based tool with multiple techniques for attacking and enumerating in the target's Azure environment. It features an intuitive web-based user interface built with the Python Flask module for a better user experience. The primary focus of this tool is to have different attacking techniques all at one place with web UI interfaces. 
+- [Russia Ddos](https://www.opensourceagenda.com/projects/russia-ddos)  
+- [Spring Cloud Gateway CVE 2022 22947](https://www.opensourceagenda.com/projects/spring-cloud-gateway-cve-2022-22947) - CVE-2022-22947 
+- [HowToCookOnMiniprogram](https://www.opensourceagenda.com/projects/howtocookonminiprogram) - 程序员做菜指南 for Miniprogram，将程序员精神贯彻到底 
+- [WFH Companies India](https://www.opensourceagenda.com/projects/wfh-companies-india) - A List of Companies in India offering Work From Home ♥ 
+- [InjectJDBC](https://www.opensourceagenda.com/projects/injectjdbc) - 注入JVM进程 动态获取目标进程连接的数据库 
+- [NeuralSVB](https://www.opensourceagenda.com/projects/neuralsvb) - Learning the Beauty in Songs: Neural Singing Voice Beautifier; ACL 2022 (Main conference); Official code 
+- [Haxunit](https://www.opensourceagenda.com/projects/haxunit)  
+
+## 2022: Week 8 (2022/02/21-2022/02/27) 
+
+- [Stop Russia It](https://www.opensourceagenda.com/projects/stop-russia-it) - An open letter from IT industry specialists to protect Ukraine from information warfare. Відкритий лист спеціалістів IT-індустрії на захист України від інформаційної війни. 
+- [Uashield](https://www.opensourceagenda.com/projects/uashield) - Voluntary Ukraine security platform to protect us from Russian forces in the Internet 
+- [API SecurityEmpire](https://www.opensourceagenda.com/projects/api-securityempire) - API Security Project aims to present unique attack & defense methods in API Security field 
+- [Find You](https://www.opensourceagenda.com/projects/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features 
+- [Ukraine Cyber Operations](https://www.opensourceagenda.com/projects/ukraine-cyber-operations) - Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine. 
+- [Db1000n](https://www.opensourceagenda.com/projects/db1000n)  
+- [EldenRingFpsUnlockAndMore](https://www.opensourceagenda.com/projects/eldenringfpsunlockandmore) - A small utility to remove frame rate limit, change FOV, add widescreen support and more for Elden Ring 
+- [Almerico Bombardier](https://www.opensourceagenda.com/projects/almerico-bombardier) - bombardier 
+- [NoWarDDoS](https://www.opensourceagenda.com/projects/nowarddos) - DDoS Russian websites to help Ukraine to win this hybrid war 
+- [Stoppropaganda](https://www.opensourceagenda.com/projects/stoppropaganda) - A special DOS application to stop pro-Russian aggression websites. Support Ukraine! 
+- [NoRussian](https://www.opensourceagenda.com/projects/norussian) - Volunteer DoS tool via HTML + JS 
+- [Video To Reels](https://www.opensourceagenda.com/projects/video-to-reels) - Automatically edit videos to post on Instagram Reels 
+- [SharpXDecrypt](https://www.opensourceagenda.com/projects/sharpxdecrypt) - Xshell全版本密码恢复工具 
+- [Geographical Adventures](https://www.opensourceagenda.com/projects/geographical-adventures)  
+- [Raw Pdb](https://www.opensourceagenda.com/projects/raw-pdb) - A C++11 library for reading Microsoft Program DataBase PDB files 
+- [Css Checker](https://www.opensourceagenda.com/projects/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts  
+- [BrunoLevy Geogram](https://www.opensourceagenda.com/projects/brunolevy-geogram) - a programming library with geometric algorithms 
+- [Reverse Interview Zh Hant](https://www.opensourceagenda.com/projects/reverse-interview-zh-hant) - 面試背後的面試繁體中文翻譯 
+- [Org Modern](https://www.opensourceagenda.com/projects/org-modern) - :unicorn: Modern Org Style 
+- [Cloud Bucket Leak Detection Tools](https://www.opensourceagenda.com/projects/cloud-bucket-leak-detection-tools) - 六大云存储，泄露利用检测工具 
+- [Hpcaitech FastFold](https://www.opensourceagenda.com/projects/hpcaitech-fastfold) - Optimizing Protein Structure Prediction Model Training and Inference on GPU Clusters 
+- [Intro Continual Learning](https://www.opensourceagenda.com/projects/intro-continual-learning) - This is a tutorial to connect the fundamental mathematics to a practical implementation addressing the continual learning problem of artificial intelligence 
+- [Batname](https://www.opensourceagenda.com/projects/batname) - Generate texts like "The Batman (2022)" film logo 
+- [Protocol Reading List](https://www.opensourceagenda.com/projects/protocol-reading-list)  
+- [CompanyList](https://www.opensourceagenda.com/projects/companylist)  
+
+## 2022: Week 7 (2022/02/14-2022/02/20) 
+
+- [Curl Impersonate](https://www.opensourceagenda.com/projects/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox 
+- [WipeClean](https://www.opensourceagenda.com/projects/wipeclean)  
+- [JavaSecInterview](https://www.opensourceagenda.com/projects/javasecinterview) - 打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作 
+- [GNNs Recipe](https://www.opensourceagenda.com/projects/gnns-recipe) - A recipe to study Graph Neural Networks (GNNs) 
+- [NvidiaRTX LHRv2Unlocker](https://www.opensourceagenda.com/projects/nvidiartx-lhrv2unlocker) - The first fully automated BIOS modifier for RTX cards with LHR v2 lock. 
+- [Financial Advice](https://www.opensourceagenda.com/projects/financial-advice) - What financial info would I have wanted to know when I was 22 and jumping into tech? 
+- [Sec Interview 4 2023](https://www.opensourceagenda.com/projects/sec-interview-4-2023) - 一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~ 
+- [KrbRelay](https://www.opensourceagenda.com/projects/krbrelay) - Framework for Kerberos relaying  
+- [VMProtect Devirtualization](https://www.opensourceagenda.com/projects/vmprotect-devirtualization) - Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM. 
+- [Dev Conf Replay](https://www.opensourceagenda.com/projects/dev-conf-replay) - 비교적 최근에 진행된 국내 IT 및 개발자:computer: 컨퍼런스 영상의 다시 보기:eyes: 링크를 한곳에 정리했습니다!:four_leaf_clover: 
+- [VAN Classification](https://www.opensourceagenda.com/projects/van-classification)  
+- [BypassAnti Virus](https://www.opensourceagenda.com/projects/bypassanti-virus) - 免杀姿势学习、记录、复现。 
+- [Data Engineering Practice](https://www.opensourceagenda.com/projects/data-engineering-practice) - Data Engineering Practice Problems 
+- [Modernizing Modernization](https://www.opensourceagenda.com/projects/modernizing-modernization) - summary for code analysis and auto-refactor。《代码分析与自动化重构》  - 如何自己动手设计源码解析、构建代码的代码模型、可视化代码、以及如何进行自动化的重构和守护。 
+- [Mmrotate](https://www.opensourceagenda.com/projects/mmrotate) - OpenMMLab Rotated Object Detection Toolbox and Benchmark 
+- [Stem Player Emulator](https://www.opensourceagenda.com/projects/stem-player-emulator) - Kanye West's stem player emulator 
+- [Heart Switch](https://www.opensourceagenda.com/projects/heart-switch) - ❤️ A heart-shaped toggle switch component for React. 
+- [InstantAPIs](https://www.opensourceagenda.com/projects/instantapis) - A library that generates Minimal API endpoints for an Entity Framework context.   
+- [Tiejili](https://www.opensourceagenda.com/projects/tiejili) - 铁蒺藜体，基于 Reggae One 的开源中文字体。An open-source font that extends Fontworks’ Reggae One to Chinese. 
+- [Mr Xn Sunlogin Rce](https://www.opensourceagenda.com/projects/mr-xn-sunlogin-rce) - 向日葵 RCE 
+- [RedTeam Resources](https://www.opensourceagenda.com/projects/redteam-resources)  
+- [Tailwindcss Animate](https://www.opensourceagenda.com/projects/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations 
+- [Riti2409 Operating System](https://www.opensourceagenda.com/projects/riti2409-operating-system) - Resources , Notes , Videos of Operating System 
+- [Dingtalk RCE](https://www.opensourceagenda.com/projects/dingtalk-rce)  
+- [Awesome Cicd Security](https://www.opensourceagenda.com/projects/awesome-cicd-security) - :books: A curated list of awesome CI CD security resources 
+
+## 2022: Week 6 (2022/02/07-2022/02/13) 
+
+- [Yoav Lavi Melody](https://www.opensourceagenda.com/projects/yoav-lavi-melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable 
+- [Lakr233 Rayon](https://www.opensourceagenda.com/projects/lakr233-rayon) - yet another SSH machine manager 
+- [Penkesu](https://www.opensourceagenda.com/projects/penkesu) - Penkesu Computer - A Homebrew Retro-style Handheld PC 
+- [Advisory Database](https://www.opensourceagenda.com/projects/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software. 
+- [Nextest](https://www.opensourceagenda.com/projects/nextest) - A next-generation test runner for Rust. 
+- [Vita2hos](https://www.opensourceagenda.com/projects/vita2hos) - [WIP] PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer 
+- [NATSpeech](https://www.opensourceagenda.com/projects/natspeech) - A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022) 
+- [Nebullvm](https://www.opensourceagenda.com/projects/nebullvm) - Easy-to-use library to boost AI inference leveraging multiple DL compilers 
+- [React Awesome Shapes](https://www.opensourceagenda.com/projects/react-awesome-shapes) - 🌀 Insert Awesome Shapes into Your React Site with Ease. 
+- [SpoolFool](https://www.opensourceagenda.com/projects/spoolfool) - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE) 
+- [Bytedance Android Inline Hook](https://www.opensourceagenda.com/projects/bytedance-android-inline-hook) - 🔥 An inline hook library for Android apps. (thumb + arm32 + arm64) 
+- [Patching](https://www.opensourceagenda.com/projects/patching) - An Interactive Binary Patching Plugin for IDA Pro 
+- [Yydspure](https://www.opensourceagenda.com/projects/yydspure)  
+- [Cweijan JD Tencent Scf](https://www.opensourceagenda.com/projects/cweijan-jd-tencent-scf) - 打京豆部署介绍 
+- [Microhttp](https://www.opensourceagenda.com/projects/microhttp) - Fast, scalable, self-contained, single-threaded Java web server 
+- [Saikou](https://www.opensourceagenda.com/projects/saikou) - An anilist only client, which lets you stream & download Anime & Manga. 
+- [Omnivore App Omnivore](https://www.opensourceagenda.com/projects/omnivore-app-omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading. 
+- [KingRan KR](https://www.opensourceagenda.com/projects/kingran-kr)  
+- [React Native New Architecture](https://www.opensourceagenda.com/projects/react-native-new-architecture) - Workgroup for the New React Native Architecture 
+- [PackMyPayload](https://www.opensourceagenda.com/projects/packmypayload) - A PoC that packages payloads into output containers to evade Mark-of-the-Web flag & demonstrate risks associated with container file formats. Supports: ZIP, 7zip, PDF, ISO, IMG, CAB, VHD, VHDX 
+- [Pen4uin Cloud Native Security](https://www.opensourceagenda.com/projects/pen4uin-cloud-native-security) - 云原生安全 
+- [Sar Interference Tracker](https://www.opensourceagenda.com/projects/sar-interference-tracker) - A Google Earth Engine tool for identifying satellite radar interference. 
+- [Froopyland Dr](https://www.opensourceagenda.com/projects/froopyland-dr) - "What happens to their homelab?" A crowd-sourced guide to help techs help their non-tech spouses/partners/parents/kids when we ☠️ 
+- [Process Overwriting](https://www.opensourceagenda.com/projects/process-overwriting) - Yet another variant of Process Hollowing 
+- [ComposeAnimations](https://www.opensourceagenda.com/projects/composeanimations) - Collection of nice animations created with Jetpack Compose 
+
+## 2022: Week 5 (2022/01/31-2022/02/06) 
+
+- [Trickest Cve](https://www.opensourceagenda.com/projects/trickest-cve) - Gather and update all available and newest CVEs with their PoC. 
+- [AstroVim](https://www.opensourceagenda.com/projects/astrovim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  
+- [Code Contests](https://www.opensourceagenda.com/projects/code-contests)  
+- [Sha256algorithm](https://www.opensourceagenda.com/projects/sha256algorithm) - Sha256 Algorithm Explained 
+- [Webvm](https://www.opensourceagenda.com/projects/webvm) - Source code for the page webvm.io 
+- [Apebot](https://www.opensourceagenda.com/projects/apebot)  
+- [Midarr Server](https://www.opensourceagenda.com/projects/midarr-server) - 🔥Midarr, the next-generation media server. 
+- [Android Maps Compose](https://www.opensourceagenda.com/projects/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android 
+- [KillDefender](https://www.opensourceagenda.com/projects/killdefender) - A small POC to make defender useless by removing its token privileges and lowering the token integrity   
+- [Advanced Process Injection Workshop](https://www.opensourceagenda.com/projects/advanced-process-injection-workshop)  
+- [Onboarding Github Launchx](https://www.opensourceagenda.com/projects/onboarding-github-launchx) - Cómo ingresar a la organización de Launch X by Innovacción Virtual 
+- [Worksome Envy](https://www.opensourceagenda.com/projects/worksome-envy) - Keep your .env.example file up to date 
+- [Xataio Screenshot](https://www.opensourceagenda.com/projects/xataio-screenshot) - A zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API. 
+- [IWantToRun](https://www.opensourceagenda.com/projects/iwanttorun)  
+- [Immich](https://www.opensourceagenda.com/projects/immich) - Self-hosted photo and video backup solution directly from your mobile phone. 
+- [Hackernews Remix React](https://www.opensourceagenda.com/projects/hackernews-remix-react) - Hacker News clone written with universal TypeScript, using React and Remix. 
+- [System Design React Code Examples](https://www.opensourceagenda.com/projects/system-design-react-code-examples) - A curation of code examples and in depth technical implementation approaches to solve the common frontend system design issues in React. 
+- [Recruiter Autoresponse](https://www.opensourceagenda.com/projects/recruiter-autoresponse) - Based on the Medium Article entitled - "Career Advice Nobody Gave Me: Never ignore a recruiter" this repo has a copyable script which you can use to auto-respond to recruiters. 
+- [EvilSelenium](https://www.opensourceagenda.com/projects/evilselenium) - EvilSelenium is a tool that weaponizes Selenium to attack Chrome. 
+- [Hertzbeat](https://www.opensourceagenda.com/projects/hertzbeat) - 易用友好的高性能监控告警系统。网站监测，PING连通性，端口可用性，数据库监控，API监控，自定义监控，阈值告警，告警通知(邮件微信钉钉飞书)。 
+- [Stylegan3 Editing](https://www.opensourceagenda.com/projects/stylegan3-editing) - Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" https://arxiv.org/abs/2201.13433  
+- [Gpt3 Twitter Bot](https://www.opensourceagenda.com/projects/gpt3-twitter-bot) - Build a GPT-3 Powered Twitter Bot with Node.js & Firebase 
+- [Clidle](https://www.opensourceagenda.com/projects/clidle) - Play Wordle over SSH. 
+- [CLIPasso](https://www.opensourceagenda.com/projects/clipasso)  
+- [Deser](https://www.opensourceagenda.com/projects/deser) - Experimental rust serialization library 
+
+## 2022: Week 4 (2022/01/24-2022/01/30) 
+
+- [DevToysMac](https://www.opensourceagenda.com/projects/devtoysmac) - DevToys For mac 
+- [CVE 2021 4034](https://www.opensourceagenda.com/projects/cve-2021-4034) - CVE-2021-4034 1day 
+- [Rob501](https://www.opensourceagenda.com/projects/rob501) - Mathematics for Robotics 
+- [Levkk Pgcat](https://www.opensourceagenda.com/projects/levkk-pgcat) - Meow. PgBouncer rewritten in Rust, with sharding, load balancing and failover support. 
+- [Arthepsy CVE 2021 4034](https://www.opensourceagenda.com/projects/arthepsy-cve-2021-4034) - PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034) 
+- [Awesome Italia Remote](https://www.opensourceagenda.com/projects/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents. 
+- [Wholeaked](https://www.opensourceagenda.com/projects/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage 
+- [PwnKit](https://www.opensourceagenda.com/projects/pwnkit) - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation 
+- [Dotnet Releaser](https://www.opensourceagenda.com/projects/dotnet-releaser) - Easily cross-compile, package and publish your .NET application to NuGet and GitHub. 
+- [ASL To English](https://www.opensourceagenda.com/projects/asl-to-english) - Reads your hand signs and translates them to English words using Tensorflow object detection API 
+- [Domain Penetration One Stop](https://www.opensourceagenda.com/projects/domain-penetration-one-stop) - 域渗透一条龙 
+- [CVE 2022 21882](https://www.opensourceagenda.com/projects/cve-2022-21882) - win32k LPE  
+- [Antfu Handle](https://www.opensourceagenda.com/projects/antfu-handle) - A Chinese Hanzi variation of Wordle - 汉字 Wordle 
+- [Salesforce BLIP](https://www.opensourceagenda.com/projects/salesforce-blip) - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation   
+- [Jotsy](https://www.opensourceagenda.com/projects/jotsy) - Jotsy is a self-hosted, free and open-source note taking app with a goal of simplicity in mind 
+- [Resources For Preparation Of Placements](https://www.opensourceagenda.com/projects/resources-for-preparation-of-placements) - Lecture video links for preparation of Placements 
+- [Stylish.nvim](https://www.opensourceagenda.com/projects/stylishnvim) - Stylish UI components for Neovim 
+- [Command Line Quick Reference](https://www.opensourceagenda.com/projects/command-line-quick-reference) - quick reference on command line tools and techniques for the people with limited time 
+- [Dler Io Rules](https://www.opensourceagenda.com/projects/dler-io-rules)  
+- [TI 84 CE Raytracing](https://www.opensourceagenda.com/projects/ti-84-ce-raytracing) - A ray tracing engine for the Ti84 CE written in C++ and ez80 assembly. 
+- [Fireverse](https://www.opensourceagenda.com/projects/fireverse) - A chat app made with react, typescript, firebase, tailwind 
+- [Airline Microservices](https://www.opensourceagenda.com/projects/airline-microservices) - Airline Microservice is a managerial software which targets to control all operations of an airline. Airlines provide transport services for their passengers. They carry or hire aircraft for this purpose. All operations of an airline company are controlled by their airline management system. 
+- [Bus Vis](https://www.opensourceagenda.com/projects/bus-vis) - 🚌 City bus visualizations of China. 
+- [Pmndrs Lamina](https://www.opensourceagenda.com/projects/pmndrs-lamina) - 🍰 An extensible, layer based shader material for ThreeJS 
+- [Mustafaquraish Cup](https://www.opensourceagenda.com/projects/mustafaquraish-cup) - simple, C-like programming language 
+
+## 2022: Week 3 (2022/01/17-2022/01/23) 
+
+- [Prql](https://www.opensourceagenda.com/projects/prql) - PRQL is a modern language for transforming data — a simpler and more powerful SQL 
+- [Vercel Platforms](https://www.opensourceagenda.com/projects/vercel-platforms) - A template for site builders and low-code tools. 
+- [Codefever](https://www.opensourceagenda.com/projects/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)! 
+- [Rich Cli](https://www.opensourceagenda.com/projects/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal 
+- [Aluracord Matrix](https://www.opensourceagenda.com/projects/aluracord-matrix)  
+- [Cubic 11](https://www.opensourceagenda.com/projects/cubic-11) - 免費開源的 11×11 中文點陣體 
+- [Kernel New Features](https://www.opensourceagenda.com/projects/kernel-new-features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等 
+- [Type Exercise In Rust](https://www.opensourceagenda.com/projects/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems 
+- [OCI Fast Track Linuxtips](https://www.opensourceagenda.com/projects/oci-fast-track-linuxtips) - Material para evento OCI Fast Track Linuxtips 
+- [Papyrs Stylo](https://www.opensourceagenda.com/projects/papyrs-stylo) - Another kind of rich text editor 
+- [FunctionStomping](https://www.opensourceagenda.com/projects/functionstomping) - A new shellcode injection technique. Given as C++ header, standalone Rust program or library. 
+- [Vue Wordle](https://www.opensourceagenda.com/projects/vue-wordle) - Wordle built with Vue, aka VVordle 
+- [Tech Jobs With Relocation](https://www.opensourceagenda.com/projects/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎  
+- [Project Professional Portfolio](https://www.opensourceagenda.com/projects/project-professional-portfolio) - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, SCSS, Framer Motion, Sanity 
+- [HughChen Qr Image](https://www.opensourceagenda.com/projects/hughchen-qr-image) - A web app to generate valid QR codes with readable images. 
+- [STIT](https://www.opensourceagenda.com/projects/stit)  
+- [Zkp Merkle Airdrop Contracts](https://www.opensourceagenda.com/projects/zkp-merkle-airdrop-contracts)  
+- [Zhudou Sans](https://www.opensourceagenda.com/projects/zhudou-sans) - 煮豆黑体，Noto 风格中日韩标点符号字体。A font family for CJK symbols and punctuation, derived from Noto Sans. 
+- [Go Binsize Treemap](https://www.opensourceagenda.com/projects/go-binsize-treemap) - 🔍 Go binary size SVG treemap 
+- [ZZ SOCMAP CVE 2022 21907](https://www.opensourceagenda.com/projects/zz-socmap-cve-2022-21907) - HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 
+- [Keploy](https://www.opensourceagenda.com/projects/keploy) - No code API testing platform. Create unit tests and data mocks from API calls.  
+- [CVE 2022 21907](https://www.opensourceagenda.com/projects/cve-2022-21907) - HTTP Protocol Stack Remote Code Execution Vulnerability CVE-2022-21907 
+- [Fidget.nvim](https://www.opensourceagenda.com/projects/fidgetnvim) - Standalone UI for nvim-lsp progress 
+- [JingyunLiang VRT](https://www.opensourceagenda.com/projects/jingyunliang-vrt) - VRT: A Video Restoration Transformer (official repository) 
+- [Kubeorbit](https://www.opensourceagenda.com/projects/kubeorbit) - Test your application on Kubernetes in a brand new simple way⚡ 轻量高效的微服务本地联调测试工具 
 
 ## 2022: Week 2 (2022/01/10-2022/01/16) 
 
